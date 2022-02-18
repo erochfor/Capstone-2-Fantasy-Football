@@ -1,0 +1,484 @@
+,fantasy_team,owner,team_id,player,pro_team,position,position_rank,acquisition_type,pid,year,lid
+0,Hatcher Top Jonny Bottom,Matt  Plager,1,Christian McCaffrey,CAR,RB,1,DRAFT,3117251,2019,64582505
+1,Hatcher Top Jonny Bottom,Matt  Plager,1,Travis Kelce,KC,TE,1,DRAFT,15847,2019,64582505
+2,Hatcher Top Jonny Bottom,Matt  Plager,1,Kenny Golladay,DET,WR,6,DRAFT,2974858,2019,64582505
+3,Hatcher Top Jonny Bottom,Matt  Plager,1,Kareem Hunt,CLE,RB,50,DRAFT,3059915,2019,64582505
+4,Hatcher Top Jonny Bottom,Matt  Plager,1,Courtland Sutton,DEN,WR,19,ADD,3128429,2019,64582505
+5,Hatcher Top Jonny Bottom,Matt  Plager,1,Dalvin Cook,MIN,RB,5,TRADE,3116593,2019,64582505
+6,Hatcher Top Jonny Bottom,Matt  Plager,1,Joey Slye,CAR,K,11,ADD,3124084,2019,64582505
+7,Hatcher Top Jonny Bottom,Matt  Plager,1,Dak Prescott,DAL,QB,2,TRADE,2577417,2019,64582505
+8,Hatcher Top Jonny Bottom,Matt  Plager,1,Joe Mixon,CIN,RB,13,TRADE,3116385,2019,64582505
+9,Hatcher Top Jonny Bottom,Matt  Plager,1,Allen Robinson II,CHI,WR,11,TRADE,16799,2019,64582505
+10,Hatcher Top Jonny Bottom,Matt  Plager,1,John Brown,BUF,WR,20,ADD,16804,2019,64582505
+11,Hatcher Top Jonny Bottom,Matt  Plager,1,Damien Williams,KC,RB,35,ADD,17359,2019,64582505
+12,Hatcher Top Jonny Bottom,Matt  Plager,1,LeSean McCoy,KC,RB,42,ADD,12514,2019,64582505
+13,Hatcher Top Jonny Bottom,Matt  Plager,1,JuJu Smith-Schuster,PIT,WR,66,ADD,3120348,2019,64582505
+14,Hatcher Top Jonny Bottom,Matt  Plager,1,Ravens D/ST,BAL,D/ST,4,ADD,-16033,2019,64582505
+15,Hatcher Top Jonny Bottom,Matt  Plager,1,Jimmy Garoppolo,SF,QB,14,ADD,16760,2019,64582505
+16,The Foxy Ladies,Fox Winters,2,Julio Jones,ATL,WR,3,DRAFT,13982,2019,64582505
+17,The Foxy Ladies,Fox Winters,2,James Conner,PIT,RB,33,DRAFT,3045147,2019,64582505
+18,The Foxy Ladies,Fox Winters,2,Mike Evans,TB,WR,12,DRAFT,16737,2019,64582505
+19,The Foxy Ladies,Fox Winters,2,Austin Ekeler,LAC,RB,6,DRAFT,3068267,2019,64582505
+20,The Foxy Ladies,Fox Winters,2,Tyrell Williams,OAK,WR,47,ADD,2587819,2019,64582505
+21,The Foxy Ladies,Fox Winters,2,Leonard Fournette,JAX,RB,9,TRADE,3115364,2019,64582505
+22,The Foxy Ladies,Fox Winters,2,Golden Tate,NYG,WR,43,ADD,13217,2019,64582505
+23,The Foxy Ladies,Fox Winters,2,Tevin Coleman,SF,RB,36,ADD,2979477,2019,64582505
+24,The Foxy Ladies,Fox Winters,2,Drew Brees,NO,QB,21,ADD,2580,2019,64582505
+25,The Foxy Ladies,Fox Winters,2,Steelers D/ST,PIT,D/ST,2,ADD,-16023,2019,64582505
+26,The Foxy Ladies,Fox Winters,2,Benny Snell Jr.,PIT,RB,65,ADD,4035072,2019,64582505
+27,The Foxy Ladies,Fox Winters,2,Kirk Cousins,MIN,QB,15,ADD,14880,2019,64582505
+28,The Foxy Ladies,Fox Winters,2,Rashaad Penny,SEA,RB,56,ADD,3139925,2019,64582505
+29,The Foxy Ladies,Fox Winters,2,Mason Crosby,GB,K,13,ADD,10636,2019,64582505
+30,The Foxy Ladies,Fox Winters,2,A.J. Brown,TEN,WR,15,ADD,4047646,2019,64582505
+31,The Foxy Ladies,Fox Winters,2,Mike Gesicki,MIA,TE,11,ADD,3116164,2019,64582505
+32,Pitter  Patter,nick brustin,3,Michael Thomas,NO,WR,1,DRAFT,2976316,2019,64582505
+33,Pitter  Patter,nick brustin,3,Todd Gurley II,LAR,RB,14,DRAFT,2977644,2019,64582505
+34,Pitter  Patter,nick brustin,3,Josh Jacobs,OAK,RB,18,DRAFT,4047365,2019,64582505
+35,Pitter  Patter,nick brustin,3,Brandin Cooks,LAR,WR,62,DRAFT,16731,2019,64582505
+36,Pitter  Patter,nick brustin,3,Deshaun Watson,HOU,QB,4,DRAFT,3122840,2019,64582505
+37,Pitter  Patter,nick brustin,3,Chris Godwin,TB,WR,2,DRAFT,3116165,2019,64582505
+38,Pitter  Patter,nick brustin,3,Matt Breida,SF,RB,45,DRAFT,3049916,2019,64582505
+39,Pitter  Patter,nick brustin,3,Vikings D/ST,MIN,D/ST,5,DRAFT,-16016,2019,64582505
+40,Pitter  Patter,nick brustin,3,Michael Gallup,DAL,WR,22,DRAFT,4036348,2019,64582505
+41,Pitter  Patter,nick brustin,3,Ka'imi Fairbairn,HOU,K,19,ADD,2971573,2019,64582505
+42,Pitter  Patter,nick brustin,3,Will Fuller V,HOU,WR,54,ADD,3052876,2019,64582505
+43,Pitter  Patter,nick brustin,3,Tarik Cohen,CHI,RB,37,ADD,3066158,2019,64582505
+44,Pitter  Patter,nick brustin,3,Jimmy Graham,GB,TE,21,ADD,13232,2019,64582505
+45,Pitter  Patter,nick brustin,3,Jamaal Williams,GB,RB,34,ADD,2980453,2019,64582505
+46,Pitter  Patter,nick brustin,3,Kyle Rudolph,MIN,TE,14,ADD,14054,2019,64582505
+47,Pitter  Patter,nick brustin,3,Broncos D/ST,DEN,D/ST,20,ADD,-16007,2019,64582505
+48,Bonerville Cougers,James Gaudreault,4,Le'Veon Bell,NYJ,RB,17,DRAFT,15825,2019,64582505
+49,Bonerville Cougers,James Gaudreault,4,Davante Adams,GB,WR,24,DRAFT,16800,2019,64582505
+50,Bonerville Cougers,James Gaudreault,4,Julian Edelman,NE,WR,10,DRAFT,12649,2019,64582505
+51,Bonerville Cougers,James Gaudreault,4,Melvin Gordon,LAC,RB,23,DRAFT,2576434,2019,64582505
+52,Bonerville Cougers,James Gaudreault,4,Sony Michel,NE,RB,28,DRAFT,3128721,2019,64582505
+53,Bonerville Cougers,James Gaudreault,4,Robby Anderson,NYJ,WR,39,DRAFT,2574808,2019,64582505
+54,Bonerville Cougers,James Gaudreault,4,Greg Zuerlein,LAR,K,12,DRAFT,14993,2019,64582505
+55,Bonerville Cougers,James Gaudreault,4,Tom Brady,NE,QB,12,DRAFT,2330,2019,64582505
+56,Bonerville Cougers,James Gaudreault,4,Patriots D/ST,NE,D/ST,1,DRAFT,-16017,2019,64582505
+57,Bonerville Cougers,James Gaudreault,4,Mark Andrews,BAL,TE,4,DRAFT,3116365,2019,64582505
+58,Bonerville Cougers,James Gaudreault,4,Emmanuel Sanders,SF,WR,33,ADD,13295,2019,64582505
+59,Bonerville Cougers,James Gaudreault,4,Tyler Boyd,CIN,WR,23,ADD,3045144,2019,64582505
+60,Bonerville Cougers,James Gaudreault,4,Jameis Winston,TB,QB,5,ADD,2969939,2019,64582505
+61,Bonerville Cougers,James Gaudreault,4,Browns D/ST,CLE,D/ST,24,ADD,-16005,2019,64582505
+62,Bonerville Cougers,James Gaudreault,4,Darius Slayton,NYG,WR,35,ADD,3916945,2019,64582505
+63,Bonerville Cougers,James Gaudreault,4,Noah Fant,DEN,TE,16,ADD,4036131,2019,64582505
+64,No Turbo Nick,Jonny Perreault,5,Alvin Kamara,NO,RB,12,DRAFT,3054850,2019,64582505
+65,No Turbo Nick,Jonny Perreault,5,Devonta Freeman,ATL,RB,21,DRAFT,16944,2019,64582505
+66,No Turbo Nick,Jonny Perreault,5,Hunter Henry,LAC,TE,9,DRAFT,3046439,2019,64582505
+67,No Turbo Nick,Jonny Perreault,5,Aaron Rodgers,GB,QB,9,DRAFT,8439,2019,64582505
+68,No Turbo Nick,Jonny Perreault,5,Jarvis Landry,CLE,WR,13,DRAFT,16790,2019,64582505
+69,No Turbo Nick,Jonny Perreault,5,Marlon Mack,IND,RB,20,DRAFT,3139605,2019,64582505
+70,No Turbo Nick,Jonny Perreault,5,A.J. Green,CIN,WR,0,DRAFT,13983,2019,64582505
+71,No Turbo Nick,Jonny Perreault,5,Devin Singletary,BUF,RB,31,DRAFT,4040761,2019,64582505
+72,No Turbo Nick,Jonny Perreault,5,Bears D/ST,CHI,D/ST,16,DRAFT,-16003,2019,64582505
+73,No Turbo Nick,Jonny Perreault,5,Russell Wilson,SEA,QB,3,DRAFT,14881,2019,64582505
+74,No Turbo Nick,Jonny Perreault,5,Austin Hooper,ATL,TE,6,DRAFT,3043275,2019,64582505
+75,No Turbo Nick,Jonny Perreault,5,Justin Tucker,BAL,K,3,DRAFT,15683,2019,64582505
+76,No Turbo Nick,Jonny Perreault,5,Larry Fitzgerald,ARI,WR,37,DRAFT,5528,2019,64582505
+77,No Turbo Nick,Jonny Perreault,5,DeSean Jackson,PHI,WR,124,ADD,11283,2019,64582505
+78,No Turbo Nick,Jonny Perreault,5,Cole Beasley,BUF,WR,34,ADD,15349,2019,64582505
+79,No Turbo Nick,Jonny Perreault,5,Mason Rudolph,PIT,QB,30,ADD,3116407,2019,64582505
+80,PAWG Patrol,Hatcher D'Agostino,6,DeAndre Hopkins,HOU,WR,5,DRAFT,15795,2019,64582505
+81,PAWG Patrol,Hatcher D'Agostino,6,Nick Chubb,CLE,RB,7,DRAFT,3128720,2019,64582505
+82,PAWG Patrol,Hatcher D'Agostino,6,Patrick Mahomes,KC,QB,7,DRAFT,3139477,2019,64582505
+83,PAWG Patrol,Hatcher D'Agostino,6,Cooper Kupp,LAR,WR,4,DRAFT,2977187,2019,64582505
+84,PAWG Patrol,Hatcher D'Agostino,6,Chris Carson,SEA,RB,11,DRAFT,3919596,2019,64582505
+85,PAWG Patrol,Hatcher D'Agostino,6,Harrison Butker,KC,K,1,DRAFT,3055899,2019,64582505
+86,PAWG Patrol,Hatcher D'Agostino,6,Eagles D/ST,PHI,D/ST,14,DRAFT,-16021,2019,64582505
+87,PAWG Patrol,Hatcher D'Agostino,6,Jordan Howard,PHI,RB,41,DRAFT,3060022,2019,64582505
+88,PAWG Patrol,Hatcher D'Agostino,6,Jamison Crowder,NYJ,WR,31,DRAFT,2576716,2019,64582505
+89,PAWG Patrol,Hatcher D'Agostino,6,George Kittle,SF,TE,2,TRADE,3040151,2019,64582505
+90,PAWG Patrol,Hatcher D'Agostino,6,Marquise Brown,BAL,WR,46,ADD,4241372,2019,64582505
+91,PAWG Patrol,Hatcher D'Agostino,6,Austin Seibert,CLE,K,15,ADD,3821683,2019,64582505
+92,PAWG Patrol,Hatcher D'Agostino,6,Sterling Shepard,NYG,WR,50,ADD,2976592,2019,64582505
+93,PAWG Patrol,Hatcher D'Agostino,6,Miles Sanders,PHI,RB,15,TRADE,4045163,2019,64582505
+94,PAWG Patrol,Hatcher D'Agostino,6,Dede Westbrook,JAX,WR,45,ADD,3892889,2019,64582505
+95,PAWG Patrol,Hatcher D'Agostino,6,Chiefs D/ST,KC,D/ST,11,ADD,-16012,2019,64582505
+96,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Tyreek Hill,KC,WR,30,DRAFT,3116406,2019,64582505
+97,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Zach Ertz,PHI,TE,5,DRAFT,15835,2019,64582505
+98,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Mark Ingram II,BAL,RB,8,DRAFT,13981,2019,64582505
+99,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Phillip Lindsay,DEN,RB,19,DRAFT,3052117,2019,64582505
+100,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Darren Waller,OAK,TE,3,ADD,2576925,2019,64582505
+101,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Aaron Jones,GB,RB,2,TRADE,3042519,2019,64582505
+102,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Tyler Lockett,SEA,WR,14,TRADE,2577327,2019,64582505
+103,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,49ers D/ST,SF,D/ST,3,ADD,-16025,2019,64582505
+104,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,DJ Chark Jr.,JAX,WR,16,ADD,3115394,2019,64582505
+105,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Josh Allen,BUF,QB,6,ADD,3918298,2019,64582505
+106,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Christian Kirk,ARI,WR,40,ADD,3895856,2019,64582505
+107,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,DeVante Parker,MIA,WR,7,ADD,2576623,2019,64582505
+108,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Jacob Hollister,SEA,TE,23,ADD,3125404,2019,64582505
+109,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Josh Lambo,JAX,K,5,ADD,2998120,2019,64582505
+110,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Packers D/ST,GB,D/ST,17,ADD,-16009,2019,64582505
+111,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Sam Darnold,NYJ,QB,27,ADD,3912547,2019,64582505
+112,Yang Gang Chain Gang,Andrew Nadeau,8,Saquon Barkley,NYG,RB,10,DRAFT,3929630,2019,64582505
+113,Yang Gang Chain Gang,Andrew Nadeau,8,Matt Ryan,ATL,QB,11,DRAFT,11237,2019,64582505
+114,Yang Gang Chain Gang,Andrew Nadeau,8,Curtis Samuel,CAR,WR,36,DRAFT,3121427,2019,64582505
+115,Yang Gang Chain Gang,Andrew Nadeau,8,Amari Cooper,DAL,WR,9,TRADE,2976499,2019,64582505
+116,Yang Gang Chain Gang,Andrew Nadeau,8,DK Metcalf,SEA,WR,32,ADD,4047650,2019,64582505
+117,Yang Gang Chain Gang,Andrew Nadeau,8,Panthers D/ST,CAR,D/ST,23,ADD,-16029,2019,64582505
+118,Yang Gang Chain Gang,Andrew Nadeau,8,Jared Goff,LAR,QB,13,ADD,3046779,2019,64582505
+119,Yang Gang Chain Gang,Andrew Nadeau,8,Jason Witten,DAL,TE,12,ADD,4527,2019,64582505
+120,Yang Gang Chain Gang,Andrew Nadeau,8,Terry McLaurin,WSH,WR,27,ADD,3121422,2019,64582505
+121,Yang Gang Chain Gang,Andrew Nadeau,8,Adam Thielen,MIN,WR,61,TRADE,16460,2019,64582505
+122,Yang Gang Chain Gang,Andrew Nadeau,8,Kenyan Drake,ARI,RB,16,TRADE,2979843,2019,64582505
+123,Yang Gang Chain Gang,Andrew Nadeau,8,Evan Engram,NYG,TE,18,TRADE,3051876,2019,64582505
+124,Yang Gang Chain Gang,Andrew Nadeau,8,Kalen Ballage,MIA,RB,75,ADD,3128774,2019,64582505
+125,Yang Gang Chain Gang,Andrew Nadeau,8,Zane Gonzalez,ARI,K,6,ADD,3043234,2019,64582505
+126,Yang Gang Chain Gang,Andrew Nadeau,8,Kyler Murray,ARI,QB,8,TRADE,3917315,2019,64582505
+127,Yang Gang Chain Gang,Andrew Nadeau,8,Nick Vannett,PIT,TE,59,ADD,2576399,2019,64582505
+128,In Crust We Trust,Mike Kearney,9,David Johnson,ARI,RB,38,DRAFT,2508176,2019,64582505
+129,In Crust We Trust,Mike Kearney,9,DJ Moore,CAR,WR,18,DRAFT,3915416,2019,64582505
+130,In Crust We Trust,Mike Kearney,9,Lamar Jackson,BAL,QB,1,DRAFT,3916387,2019,64582505
+131,In Crust We Trust,Mike Kearney,9,Saints D/ST,NO,D/ST,8,DRAFT,-16018,2019,64582505
+132,In Crust We Trust,Mike Kearney,9,Derrick Henry,TEN,RB,3,TRADE,3043078,2019,64582505
+133,In Crust We Trust,Mike Kearney,9,T.Y. Hilton,IND,WR,57,TRADE,14924,2019,64582505
+134,In Crust We Trust,Mike Kearney,9,Matt Gay,TB,K,4,ADD,4249087,2019,64582505
+135,In Crust We Trust,Mike Kearney,9,Jack Doyle,IND,TE,17,ADD,16504,2019,64582505
+136,In Crust We Trust,Mike Kearney,9,Keenan Allen,LAC,WR,8,TRADE,15818,2019,64582505
+137,In Crust We Trust,Mike Kearney,9,Dallas Goedert,PHI,TE,10,TRADE,3121023,2019,64582505
+138,In Crust We Trust,Mike Kearney,9,James White,NE,RB,22,TRADE,16913,2019,64582505
+139,In Crust We Trust,Mike Kearney,9,Jets D/ST,NYJ,D/ST,7,ADD,-16020,2019,64582505
+140,In Crust We Trust,Mike Kearney,9,Alexander Mattison,MIN,RB,59,ADD,4048244,2019,64582505
+141,In Crust We Trust,Mike Kearney,9,Raheem Mostert,SF,RB,24,ADD,2576414,2019,64582505
+142,In Crust We Trust,Mike Kearney,9,Ryan Tannehill,TEN,QB,22,ADD,14876,2019,64582505
+143,In Crust We Trust,Mike Kearney,9,Mike Boone,MIN,RB,70,ADD,3139033,2019,64582505
+144,Riff Raffs Team of All Stars,Jake Landry,10,Ezekiel Elliott,DAL,RB,4,DRAFT,3051392,2019,64582505
+145,Riff Raffs Team of All Stars,Jake Landry,10,Odell Beckham Jr.,CLE,WR,26,DRAFT,16733,2019,64582505
+146,Riff Raffs Team of All Stars,Jake Landry,10,Stefon Diggs,MIN,WR,21,DRAFT,2976212,2019,64582505
+147,Riff Raffs Team of All Stars,Jake Landry,10,David Montgomery,CHI,RB,25,DRAFT,4035538,2019,64582505
+148,Riff Raffs Team of All Stars,Jake Landry,10,Jared Cook,NO,TE,7,DRAFT,12537,2019,64582505
+149,Riff Raffs Team of All Stars,Jake Landry,10,Carson Wentz,PHI,QB,10,DRAFT,2573079,2019,64582505
+150,Riff Raffs Team of All Stars,Jake Landry,10,Marvin Jones Jr.,DET,WR,27,DRAFT,15072,2019,64582505
+151,Riff Raffs Team of All Stars,Jake Landry,10,Bills D/ST,BUF,D/ST,6,DRAFT,-16002,2019,64582505
+152,Riff Raffs Team of All Stars,Jake Landry,10,Mitchell Trubisky,CHI,QB,26,DRAFT,3039707,2019,64582505
+153,Riff Raffs Team of All Stars,Jake Landry,10,Wil Lutz,NO,K,2,DRAFT,2985659,2019,64582505
+154,Riff Raffs Team of All Stars,Jake Landry,10,Marquez Valdes-Scantling,GB,WR,79,DRAFT,3051738,2019,64582505
+155,Riff Raffs Team of All Stars,Jake Landry,10,Robert Woods,LAR,WR,17,ADD,15880,2019,64582505
+156,Riff Raffs Team of All Stars,Jake Landry,10,Carlos Hyde,HOU,RB,27,ADD,16777,2019,64582505
+157,Riff Raffs Team of All Stars,Jake Landry,10,Greg Olsen,SEA,TE,13,ADD,10475,2019,64582505
+158,Riff Raffs Team of All Stars,Jake Landry,10,Nick Folk,NE,K,32,ADD,10621,2019,64582505
+159,Riff Raffs Team of All Stars,Jake Landry,10,Brian Hill,ATL,RB,60,ADD,3125403,2019,64582505
+160,El Chapo's Guzmen,Matt  Plager,1,Darren Waller,OAK,TE,2,TRADE,2576925,2020,64582505
+161,El Chapo's Guzmen,Matt  Plager,1,Kyler Murray,ARI,QB,2,TRADE,3917315,2020,64582505
+162,El Chapo's Guzmen,Matt  Plager,1,Kenyan Drake,ARI,RB,14,TRADE,2979843,2020,64582505
+163,El Chapo's Guzmen,Matt  Plager,1,Colts D/ST,IND,D/ST,3,ADD,-16011,2020,64582505
+164,El Chapo's Guzmen,Matt  Plager,1,Daniel Carlson,OAK,K,3,ADD,3051909,2020,64582505
+165,El Chapo's Guzmen,Matt  Plager,1,Nyheim Hines,IND,RB,21,ADD,3916430,2020,64582505
+166,El Chapo's Guzmen,Matt  Plager,1,Jason Myers,SEA,K,7,ADD,2473037,2020,64582505
+167,El Chapo's Guzmen,Matt  Plager,1,Ronald Jones II,TB,RB,17,TRADE,3912550,2020,64582505
+168,El Chapo's Guzmen,Matt  Plager,1,Justin Jefferson,MIN,WR,7,TRADE,4262921,2020,64582505
+169,El Chapo's Guzmen,Matt  Plager,1,Cooper Kupp,LAR,WR,24,TRADE,2977187,2020,64582505
+170,El Chapo's Guzmen,Matt  Plager,1,Chris Godwin,TB,WR,38,TRADE,3116165,2020,64582505
+171,El Chapo's Guzmen,Matt  Plager,1,James Conner,PIT,RB,25,TRADE,3045147,2020,64582505
+172,El Chapo's Guzmen,Matt  Plager,1,Derek Carr,OAK,QB,14,ADD,16757,2020,64582505
+173,El Chapo's Guzmen,Matt  Plager,1,Cam Akers,LAR,RB,49,ADD,4240021,2020,64582505
+174,El Chapo's Guzmen,Matt  Plager,1,Bills D/ST,BUF,D/ST,15,ADD,-16002,2020,64582505
+175,El Chapo's Guzmen,Matt  Plager,1,Taysom Hill,NO,QB,29,ADD,2468609,2020,64582505
+176,The Foxy Ladies,Fox Winters,2,Davante Adams,GB,WR,1,DRAFT,16800,2020,64582505
+177,The Foxy Ladies,Fox Winters,2,Diontae Johnson,PIT,WR,20,DRAFT,3932905,2020,64582505
+178,The Foxy Ladies,Fox Winters,2,Latavius Murray,NO,RB,30,DRAFT,15920,2020,64582505
+179,The Foxy Ladies,Fox Winters,2,James Robinson,JAX,RB,4,ADD,4052042,2020,64582505
+180,The Foxy Ladies,Fox Winters,2,J.K. Dobbins,BAL,RB,28,ADD,4241985,2020,64582505
+181,The Foxy Ladies,Fox Winters,2,Ryan Tannehill,TEN,QB,7,ADD,14876,2020,64582505
+182,The Foxy Ladies,Fox Winters,2,Dallas Goedert,PHI,TE,19,ADD,3121023,2020,64582505
+183,The Foxy Ladies,Fox Winters,2,Ezekiel Elliott,DAL,RB,10,TRADE,3051392,2020,64582505
+184,The Foxy Ladies,Fox Winters,2,Chris Carson,SEA,RB,16,TRADE,3919596,2020,64582505
+185,The Foxy Ladies,Fox Winters,2,Mike Gesicki,MIA,TE,7,ADD,3116164,2020,64582505
+186,The Foxy Ladies,Fox Winters,2,Tyler Bass,BUF,K,4,ADD,3917232,2020,64582505
+187,The Foxy Ladies,Fox Winters,2,Jalen Hurts,PHI,QB,36,ADD,4040715,2020,64582505
+188,The Foxy Ladies,Fox Winters,2,Nelson Agholor,OAK,WR,30,ADD,2971618,2020,64582505
+189,The Foxy Ladies,Fox Winters,2,Irv Smith Jr.,MIN,TE,21,ADD,4040980,2020,64582505
+190,The Foxy Ladies,Fox Winters,2,Eagles D/ST,PHI,D/ST,19,ADD,-16021,2020,64582505
+191,The Foxy Ladies,Fox Winters,2,CeeDee Lamb,DAL,WR,16,ADD,4241389,2020,64582505
+192,Crustholes Band of Misfits,nick brustin,3,Nick Chubb,CLE,RB,11,DRAFT,3128720,2020,64582505
+193,Crustholes Band of Misfits,nick brustin,3,Josh Jacobs,OAK,RB,9,DRAFT,4047365,2020,64582505
+194,Crustholes Band of Misfits,nick brustin,3,Adam Thielen,MIN,WR,8,DRAFT,16460,2020,64582505
+195,Crustholes Band of Misfits,nick brustin,3,Deshaun Watson,HOU,QB,5,DRAFT,3122840,2020,64582505
+196,Crustholes Band of Misfits,nick brustin,3,Robert Woods,LAR,WR,12,DRAFT,15880,2020,64582505
+197,Crustholes Band of Misfits,nick brustin,3,Evan Engram,NYG,TE,15,DRAFT,3051876,2020,64582505
+198,Crustholes Band of Misfits,nick brustin,3,Jonnu Smith,TEN,TE,9,ADD,3054212,2020,64582505
+199,Crustholes Band of Misfits,nick brustin,3,Brandin Cooks,HOU,WR,28,ADD,16731,2020,64582505
+200,Crustholes Band of Misfits,nick brustin,3,Christian Kirk,ARI,WR,44,ADD,3895856,2020,64582505
+201,Crustholes Band of Misfits,nick brustin,3,Mike Evans,TB,WR,9,TRADE,16737,2020,64582505
+202,Crustholes Band of Misfits,nick brustin,3,Corey Davis,TEN,WR,32,ADD,3042778,2020,64582505
+203,Crustholes Band of Misfits,nick brustin,3,Duke Johnson,None,RB,56,ADD,2969962,2020,64582505
+204,Crustholes Band of Misfits,nick brustin,3,Zack Moss,BUF,RB,45,ADD,4035676,2020,64582505
+205,Crustholes Band of Misfits,nick brustin,3,Rams D/ST,LAR,D/ST,2,ADD,-16014,2020,64582505
+206,Crustholes Band of Misfits,nick brustin,3,Devontae Booker,OAK,RB,53,ADD,3122866,2020,64582505
+207,Crustholes Band of Misfits,nick brustin,3,Harrison Butker,KC,K,9,ADD,3055899,2020,64582505
+208,Bonerville Cougers,James Gaudreault,4,Dalvin Cook,MIN,RB,2,DRAFT,3116593,2020,64582505
+209,Bonerville Cougers,James Gaudreault,4,Tyreek Hill,KC,WR,2,DRAFT,3116406,2020,64582505
+210,Bonerville Cougers,James Gaudreault,4,Mark Andrews,BAL,TE,5,DRAFT,3116365,2020,64582505
+211,Bonerville Cougers,James Gaudreault,4,Aaron Rodgers,GB,QB,4,DRAFT,8439,2020,64582505
+212,Bonerville Cougers,James Gaudreault,4,Antonio Gibson,WSH,RB,13,DRAFT,4360294,2020,64582505
+213,Bonerville Cougers,James Gaudreault,4,Damien Harris,NE,RB,48,ADD,3925347,2020,64582505
+214,Bonerville Cougers,James Gaudreault,4,Antonio Brown,TB,WR,96,ADD,13934,2020,64582505
+215,Bonerville Cougers,James Gaudreault,4,Raheem Mostert,SF,RB,46,TRADE,2576414,2020,64582505
+216,Bonerville Cougers,James Gaudreault,4,Buccaneers D/ST,TB,D/ST,7,TRADE,-16027,2020,64582505
+217,Bonerville Cougers,James Gaudreault,4,Terry McLaurin,WSH,WR,19,TRADE,3121422,2020,64582505
+218,Bonerville Cougers,James Gaudreault,4,Rodrigo Blankenship,IND,K,5,ADD,3915165,2020,64582505
+219,Bonerville Cougers,James Gaudreault,4,DeAndre Hopkins,ARI,WR,6,TRADE,15795,2020,64582505
+220,Bonerville Cougers,James Gaudreault,4,Kirk Cousins,MIN,QB,11,ADD,14880,2020,64582505
+221,Bonerville Cougers,James Gaudreault,4,Browns D/ST,CLE,D/ST,15,ADD,-16005,2020,64582505
+222,Bonerville Cougers,James Gaudreault,4,Logan Thomas,WSH,TE,6,ADD,16813,2020,64582505
+223,Bonerville Cougers,James Gaudreault,4,Gus Edwards,BAL,RB,35,ADD,3051926,2020,64582505
+224,Incognito Mode,Jonny Perreault,5,Michael Thomas,NO,WR,94,DRAFT,2976316,2020,64582505
+225,Incognito Mode,Jonny Perreault,5,Clyde Edwards-Helaire,KC,RB,18,DRAFT,4242214,2020,64582505
+226,Incognito Mode,Jonny Perreault,5,Kenny Golladay,DET,WR,100,DRAFT,2974858,2020,64582505
+227,Incognito Mode,Jonny Perreault,5,DJ Moore,CAR,WR,22,DRAFT,3915416,2020,64582505
+228,Incognito Mode,Jonny Perreault,5,David Johnson,HOU,RB,24,DRAFT,2508176,2020,64582505
+229,Incognito Mode,Jonny Perreault,5,D'Andre Swift,DET,RB,20,DRAFT,4259545,2020,64582505
+230,Incognito Mode,Jonny Perreault,5,David Montgomery,CHI,RB,6,DRAFT,4035538,2020,64582505
+231,Incognito Mode,Jonny Perreault,5,Jamison Crowder,NYJ,WR,35,DRAFT,2576716,2020,64582505
+232,Incognito Mode,Jonny Perreault,5,Darrell Henderson Jr.,LAR,RB,33,DRAFT,4039359,2020,64582505
+233,Incognito Mode,Jonny Perreault,5,Hunter Henry,LAC,TE,11,DRAFT,3046439,2020,64582505
+234,Incognito Mode,Jonny Perreault,5,Matthew Stafford,LAR,QB,16,DRAFT,12483,2020,64582505
+235,Incognito Mode,Jonny Perreault,5,Matt Prater,DET,K,22,DRAFT,11122,2020,64582505
+236,Incognito Mode,Jonny Perreault,5,Justin Herbert,LAC,QB,10,ADD,4038941,2020,64582505
+237,Incognito Mode,Jonny Perreault,5,Mike Williams,LAC,WR,49,ADD,3045138,2020,64582505
+238,Incognito Mode,Jonny Perreault,5,Rob Gronkowski,TB,TE,8,ADD,13229,2020,64582505
+239,Incognito Mode,Jonny Perreault,5,49ers D/ST,SF,D/ST,11,ADD,-16025,2020,64582505
+240,PAWG Patrol,Hatcher D'Agostino,6,Miles Sanders,PHI,RB,19,DRAFT,4045163,2020,64582505
+241,PAWG Patrol,Hatcher D'Agostino,6,Amari Cooper,DAL,WR,15,DRAFT,2976499,2020,64582505
+242,PAWG Patrol,Hatcher D'Agostino,6,DeVante Parker,MIA,WR,46,DRAFT,2576623,2020,64582505
+243,PAWG Patrol,Hatcher D'Agostino,6,Cam Newton,NE,QB,20,DRAFT,13994,2020,64582505
+244,PAWG Patrol,Hatcher D'Agostino,6,Noah Fant,DEN,TE,13,TRADE,4036131,2020,64582505
+245,PAWG Patrol,Hatcher D'Agostino,6,T.Y. Hilton,IND,WR,43,TRADE,14924,2020,64582505
+246,PAWG Patrol,Hatcher D'Agostino,6,Hayden Hurst,ATL,TE,14,ADD,3924365,2020,64582505
+247,PAWG Patrol,Hatcher D'Agostino,6,Chase Claypool,PIT,WR,23,ADD,4046692,2020,64582505
+248,PAWG Patrol,Hatcher D'Agostino,6,J.D. McKissic,WSH,RB,23,ADD,2572861,2020,64582505
+249,PAWG Patrol,Hatcher D'Agostino,6,Wayne Gallman,NYG,RB,34,ADD,3045127,2020,64582505
+250,PAWG Patrol,Hatcher D'Agostino,6,Seahawks D/ST,SEA,D/ST,20,ADD,-16026,2020,64582505
+251,PAWG Patrol,Hatcher D'Agostino,6,Lamar Jackson,BAL,QB,8,ADD,3916387,2020,64582505
+252,PAWG Patrol,Hatcher D'Agostino,6,Marvin Jones Jr.,DET,WR,29,TRADE,15072,2020,64582505
+253,PAWG Patrol,Hatcher D'Agostino,6,Michael Badgley,LAC,K,21,ADD,3123052,2020,64582505
+254,PAWG Patrol,Hatcher D'Agostino,6,Alvin Kamara,NO,RB,1,TRADE,3054850,2020,64582505
+255,PAWG Patrol,Hatcher D'Agostino,6,Calvin Ridley,ATL,WR,4,TRADE,3925357,2020,64582505
+256,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Aaron Jones,GB,RB,5,DRAFT,3042519,2020,64582505
+257,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Patrick Mahomes,KC,QB,3,DRAFT,3139477,2020,64582505
+258,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,A.J. Brown,TEN,WR,14,DRAFT,4047646,2020,64582505
+259,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,DK Metcalf,SEA,WR,5,DRAFT,4047650,2020,64582505
+260,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Robby Anderson,CAR,WR,17,TRADE,2574808,2020,64582505
+261,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,JuJu Smith-Schuster,PIT,WR,18,TRADE,3120348,2020,64582505
+262,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Travis Kelce,KC,TE,1,TRADE,15847,2020,64582505
+263,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Dolphins D/ST,MIA,D/ST,6,ADD,-16015,2020,64582505
+264,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Jason Sanders,MIA,K,1,ADD,3124679,2020,64582505
+265,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Myles Gaskin,MIA,RB,29,ADD,3886818,2020,64582505
+266,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Brandon Aiyuk,SF,WR,31,ADD,4360438,2020,64582505
+267,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,George Kittle,SF,TE,20,ADD,3040151,2020,64582505
+268,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Jeff Wilson Jr.,SF,RB,36,ADD,3122976,2020,64582505
+269,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Salvon Ahmed,MIA,RB,68,ADD,4243315,2020,64582505
+270,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Giovani Bernard,CIN,RB,27,ADD,15826,2020,64582505
+271,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Panthers D/ST,CAR,D/ST,17,ADD,-16029,2020,64582505
+272,I Don't Tip I Pay Bills,Andrew Nadeau,8,Derrick Henry,TEN,RB,3,DRAFT,3043078,2020,64582505
+273,I Don't Tip I Pay Bills,Andrew Nadeau,8,Allen Robinson II,CHI,WR,10,DRAFT,16799,2020,64582505
+274,HASBULLA MAGOMEDOV,Matt  Plager,1,Darrel Williams,KC,RB,22,ADD,3115375,2021,64582505
+275,I Don't Tip I Pay Bills,Andrew Nadeau,8,Melvin Gordon III,DEN,RB,15,DRAFT,2576434,2020,64582505
+276,I Don't Tip I Pay Bills,Andrew Nadeau,8,Josh Allen,BUF,QB,1,DRAFT,3918298,2020,64582505
+277,I Don't Tip I Pay Bills,Andrew Nadeau,8,Ravens D/ST,BAL,D/ST,5,DRAFT,-16033,2020,64582505
+278,I Don't Tip I Pay Bills,Andrew Nadeau,8,Joe Mixon,CIN,RB,47,TRADE,3116385,2020,64582505
+279,I Don't Tip I Pay Bills,Andrew Nadeau,8,Tom Brady,TB,QB,9,TRADE,2330,2020,64582505
+280,I Don't Tip I Pay Bills,Andrew Nadeau,8,Jimmy Graham,CHI,TE,10,ADD,13232,2020,64582505
+281,I Don't Tip I Pay Bills,Andrew Nadeau,8,Sterling Shepard,NYG,WR,59,ADD,2976592,2020,64582505
+282,I Don't Tip I Pay Bills,Andrew Nadeau,8,Cole Beasley,BUF,WR,21,ADD,15349,2020,64582505
+283,I Don't Tip I Pay Bills,Andrew Nadeau,8,Curtis Samuel,CAR,WR,27,ADD,3121427,2020,64582505
+284,I Don't Tip I Pay Bills,Andrew Nadeau,8,Dalton Schultz,DAL,TE,16,ADD,3117256,2020,64582505
+285,I Don't Tip I Pay Bills,Andrew Nadeau,8,Washington D/ST,WSH,D/ST,4,ADD,-16028,2020,64582505
+286,I Don't Tip I Pay Bills,Andrew Nadeau,8,James White,NE,RB,51,ADD,16913,2020,64582505
+287,I Don't Tip I Pay Bills,Andrew Nadeau,8,Joey Slye,CAR,K,14,ADD,3124084,2020,64582505
+288,Future's Family,Mike Kearney,9,Christian McCaffrey,CAR,RB,50,DRAFT,3117251,2020,64582505
+289,Future's Family,Mike Kearney,9,Austin Ekeler,LAC,RB,31,DRAFT,3068267,2020,64582505
+290,Future's Family,Mike Kearney,9,Tyler Lockett,SEA,WR,13,DRAFT,2577327,2020,64582505
+291,Future's Family,Mike Kearney,9,Jonathan Taylor,IND,RB,7,DRAFT,4242335,2020,64582505
+292,Future's Family,Mike Kearney,9,Russell Wilson,SEA,QB,6,DRAFT,14881,2020,64582505
+293,Future's Family,Mike Kearney,9,T.J. Hockenson,DET,TE,4,DRAFT,4036133,2020,64582505
+294,Future's Family,Mike Kearney,9,Steelers D/ST,PIT,D/ST,1,DRAFT,-16023,2020,64582505
+295,Future's Family,Mike Kearney,9,Mike Davis,CAR,RB,12,ADD,3025433,2020,64582505
+296,Future's Family,Mike Kearney,9,DJ Chark Jr.,JAX,WR,40,TRADE,3115394,2020,64582505
+297,Future's Family,Mike Kearney,9,Chase Edmonds,ARI,RB,26,ADD,3119195,2020,64582505
+298,Future's Family,Mike Kearney,9,Younghoe Koo,ATL,K,2,ADD,3049899,2020,64582505
+299,Future's Family,Mike Kearney,9,Deebo Samuel,SF,WR,93,ADD,3126486,2020,64582505
+300,Future's Family,Mike Kearney,9,Bears D/ST,CHI,D/ST,13,ADD,-16003,2020,64582505
+301,Future's Family,Mike Kearney,9,Alexander Mattison,MIN,RB,66,ADD,4048244,2020,64582505
+302,Future's Family,Mike Kearney,9,Jared Goff,DET,QB,15,ADD,3046779,2020,64582505
+303,Future's Family,Mike Kearney,9,Russell Gage,ATL,WR,41,ADD,3115378,2020,64582505
+304,a condum full o precum,Jake Landry,10,Julio Jones,ATL,WR,45,DRAFT,13982,2020,64582505
+305,a condum full o precum,Jake Landry,10,Leonard Fournette,TB,RB,37,DRAFT,3115364,2020,64582505
+306,a condum full o precum,Jake Landry,10,Jarvis Landry,CLE,WR,34,DRAFT,16790,2020,64582505
+307,a condum full o precum,Jake Landry,10,Kareem Hunt,CLE,RB,8,DRAFT,3059915,2020,64582505
+308,a condum full o precum,Jake Landry,10,Justin Tucker,BAL,K,6,DRAFT,15683,2020,64582505
+309,a condum full o precum,Jake Landry,10,Joshua Kelley,LAC,RB,58,ADD,3910544,2020,64582505
+310,a condum full o precum,Jake Landry,10,Jerick McKinnon,SF,RB,39,ADD,16782,2020,64582505
+311,a condum full o precum,Jake Landry,10,Robert Tonyan,GB,TE,3,ADD,2975674,2020,64582505
+312,a condum full o precum,Jake Landry,10,Jamaal Williams,GB,RB,38,ADD,2980453,2020,64582505
+313,a condum full o precum,Jake Landry,10,Stefon Diggs,BUF,WR,3,TRADE,2976212,2020,64582505
+314,a condum full o precum,Jake Landry,10,Eric Ebron,PIT,TE,12,TRADE,16732,2020,64582505
+315,a condum full o precum,Jake Landry,10,Ben Roethlisberger,PIT,QB,12,ADD,5536,2020,64582505
+316,a condum full o precum,Jake Landry,10,Packers D/ST,GB,D/ST,10,ADD,-16009,2020,64582505
+317,a condum full o precum,Jake Landry,10,Matt Ryan,ATL,QB,13,ADD,11237,2020,64582505
+318,a condum full o precum,Jake Landry,10,Frank Gore,NYJ,RB,44,ADD,8479,2020,64582505
+319,a condum full o precum,Jake Landry,10,Marquise Brown,BAL,WR,37,ADD,4241372,2020,64582505
+320,HASBULLA MAGOMEDOV,Matt  Plager,1,Ezekiel Elliott,DAL,RB,6,DRAFT,3051392,2021,64582505
+321,HASBULLA MAGOMEDOV,Matt  Plager,1,Tyreek Hill,KC,WR,6,DRAFT,3116406,2021,64582505
+322,HASBULLA MAGOMEDOV,Matt  Plager,1,Lamar Jackson,BAL,QB,16,DRAFT,3916387,2021,64582505
+323,HASBULLA MAGOMEDOV,Matt  Plager,1,Kyle Pitts,ATL,TE,7,DRAFT,4360248,2021,64582505
+324,HASBULLA MAGOMEDOV,Matt  Plager,1,Jaylen Waddle,MIA,WR,16,DRAFT,4372016,2021,64582505
+325,HASBULLA MAGOMEDOV,Matt  Plager,1,Justin Tucker,BAL,K,3,DRAFT,15683,2021,64582505
+326,HASBULLA MAGOMEDOV,Matt  Plager,1,Mike Gesicki,MIA,TE,11,ADD,3116164,2021,64582505
+327,HASBULLA MAGOMEDOV,Matt  Plager,1,Joe Burrow,CIN,QB,8,ADD,3915511,2021,64582505
+328,HASBULLA MAGOMEDOV,Matt  Plager,1,Davante Adams,GB,WR,3,TRADE,16800,2021,64582505
+329,HASBULLA MAGOMEDOV,Matt  Plager,1,Terry McLaurin,WSH,WR,25,TRADE,3121422,2021,64582505
+330,HASBULLA MAGOMEDOV,Matt  Plager,1,Najee Harris,PIT,RB,4,TRADE,4241457,2021,64582505
+331,HASBULLA MAGOMEDOV,Matt  Plager,1,J.D. McKissic,WSH,RB,44,ADD,2572861,2021,64582505
+332,HASBULLA MAGOMEDOV,Matt  Plager,1,Amon-Ra St. Brown,DET,WR,21,ADD,4374302,2021,64582505
+333,HASBULLA MAGOMEDOV,Matt  Plager,1,Dolphins D/ST,MIA,D/ST,4,ADD,-16015,2021,64582505
+334,HASBULLA MAGOMEDOV,Matt  Plager,1,Saints D/ST,NO,D/ST,5,ADD,-16018,2021,64582505
+335,The Foxy Ladies,Fox Winters,2,Alvin Kamara,NO,RB,8,DRAFT,3054850,2021,64582505
+336,The Foxy Ladies,Fox Winters,2,Diontae Johnson,PIT,WR,9,DRAFT,3932905,2021,64582505
+337,The Foxy Ladies,Fox Winters,2,DJ Moore,CAR,WR,19,DRAFT,3915416,2021,64582505
+338,The Foxy Ladies,Fox Winters,2,Javonte Williams,DEN,RB,17,DRAFT,4361579,2021,64582505
+339,The Foxy Ladies,Fox Winters,2,Jalen Hurts,PHI,QB,9,DRAFT,4040715,2021,64582505
+340,The Foxy Ladies,Fox Winters,2,AJ Dillon,GB,RB,23,DRAFT,4239934,2021,64582505
+341,The Foxy Ladies,Fox Winters,2,Jerry Jeudy,DEN,WR,89,ADD,4241463,2021,64582505
+342,The Foxy Ladies,Fox Winters,2,Calvin Ridley,ATL,WR,105,TRADE,3925357,2021,64582505
+343,The Foxy Ladies,Fox Winters,2,Pat Freiermuth,PIT,TE,13,ADD,4361411,2021,64582505
+344,The Foxy Ladies,Fox Winters,2,Sony Michel,LAR,RB,30,ADD,3128721,2021,64582505
+345,The Foxy Ladies,Fox Winters,2,D'Onta Foreman,TEN,RB,56,ADD,3125116,2021,64582505
+346,The Foxy Ladies,Fox Winters,2,Matt Prater,ARI,K,8,ADD,11122,2021,64582505
+347,The Foxy Ladies,Fox Winters,2,Rashaad Penny,SEA,RB,36,ADD,3139925,2021,64582505
+348,The Foxy Ladies,Fox Winters,2,Tua Tagovailoa,MIA,QB,25,ADD,4241479,2021,64582505
+349,The Foxy Ladies,Fox Winters,2,Christian Kirk,ARI,WR,26,ADD,3895856,2021,64582505
+350,The Foxy Ladies,Fox Winters,2,David Njoku,CLE,TE,22,ADD,3123076,2021,64582505
+351,The Foxy Ladies,Fox Winters,2,Falcons D/ST,ATL,D/ST,29,ADD,-16001,2021,64582505
+352,Crustholes Band of Misfits,nick brustin,3,Dalvin Cook,MIN,RB,15,DRAFT,3116593,2021,64582505
+353,Crustholes Band of Misfits,nick brustin,3,DK Metcalf,SEA,WR,12,DRAFT,4047650,2021,64582505
+354,Crustholes Band of Misfits,nick brustin,3,Justin Jefferson,MIN,WR,4,DRAFT,4262921,2021,64582505
+355,Crustholes Band of Misfits,nick brustin,3,Josh Allen,BUF,QB,1,DRAFT,3918298,2021,64582505
+356,Crustholes Band of Misfits,nick brustin,3,Josh Jacobs,OAK,RB,14,DRAFT,4047365,2021,64582505
+357,Crustholes Band of Misfits,nick brustin,3,Cordarrelle Patterson,ATL,RB,9,ADD,15807,2021,64582505
+358,Crustholes Band of Misfits,nick brustin,3,Chuba Hubbard,CAR,RB,33,ADD,4241416,2021,64582505
+359,Crustholes Band of Misfits,nick brustin,3,Dalton Schultz,DAL,TE,3,ADD,3117256,2021,64582505
+360,Crustholes Band of Misfits,nick brustin,3,Cowboys D/ST,DAL,D/ST,1,ADD,-16006,2021,64582505
+361,Crustholes Band of Misfits,nick brustin,3,Matt Gay,LAR,K,5,ADD,4249087,2021,64582505
+362,Crustholes Band of Misfits,nick brustin,3,Cole Beasley,BUF,WR,47,ADD,15349,2021,64582505
+363,Crustholes Band of Misfits,nick brustin,3,Harrison Butker,KC,K,12,ADD,3055899,2021,64582505
+364,Crustholes Band of Misfits,nick brustin,3,Ravens D/ST,BAL,D/ST,26,ADD,-16033,2021,64582505
+365,Crustholes Band of Misfits,nick brustin,3,Devin Singletary,BUF,RB,20,ADD,4040761,2021,64582505
+366,Crustholes Band of Misfits,nick brustin,3,Logan Thomas,WSH,TE,45,ADD,16813,2021,64582505
+367,Crustholes Band of Misfits,nick brustin,3,Jakobi Meyers,NE,WR,33,ADD,3916433,2021,64582505
+368,Crustholes Band of Misfits,nick brustin,3,Emmanuel Sanders,BUF,WR,52,ADD,13295,2021,64582505
+369,Bonerville Cougers,James Gaudreault,4,Nick Chubb,CLE,RB,11,DRAFT,3128720,2021,64582505
+370,Bonerville Cougers,James Gaudreault,4,Aaron Jones,GB,RB,12,DRAFT,3042519,2021,64582505
+371,Bonerville Cougers,James Gaudreault,4,Keenan Allen,LAC,WR,14,DRAFT,15818,2021,64582505
+372,Bonerville Cougers,James Gaudreault,4,T.J. Hockenson,DET,TE,15,DRAFT,4036133,2021,64582505
+373,Bonerville Cougers,James Gaudreault,4,Dak Prescott,DAL,QB,7,DRAFT,2577417,2021,64582505
+374,Bonerville Cougers,James Gaudreault,4,Antonio Brown,None,WR,58,DRAFT,13934,2021,64582505
+375,Bonerville Cougers,James Gaudreault,4,Brandin Cooks,HOU,WR,20,DRAFT,16731,2021,64582505
+376,Bonerville Cougers,James Gaudreault,4,Tom Brady,TB,QB,3,DRAFT,2330,2021,64582505
+377,Bonerville Cougers,James Gaudreault,4,Melvin Gordon III,DEN,RB,18,DRAFT,2576434,2021,64582505
+378,Bonerville Cougers,James Gaudreault,4,Marquise Brown,BAL,WR,23,DRAFT,4241372,2021,64582505
+379,Bonerville Cougers,James Gaudreault,4,Rams D/ST,LAR,D/ST,13,DRAFT,-16014,2021,64582505
+380,Bonerville Cougers,James Gaudreault,4,Nick Folk,NE,K,2,ADD,10621,2021,64582505
+381,Bonerville Cougers,James Gaudreault,4,Jarvis Landry,CLE,WR,56,ADD,16790,2021,64582505
+382,Bonerville Cougers,James Gaudreault,4,Mason Crosby,GB,K,15,ADD,10636,2021,64582505
+383,Bonerville Cougers,James Gaudreault,4,Chargers D/ST,LAC,D/ST,25,ADD,-16024,2021,64582505
+384,Bonerville Cougers,James Gaudreault,4,Cole Kmet,CHI,TE,21,ADD,4258595,2021,64582505
+385,Big ole doinks  in Amish,Jonny Perreault,5,Jonathan Taylor,IND,RB,1,DRAFT,4242335,2021,64582505
+386,Big ole doinks  in Amish,Jonny Perreault,5,Austin Ekeler,LAC,RB,2,DRAFT,3068267,2021,64582505
+387,Big ole doinks  in Amish,Jonny Perreault,5,CeeDee Lamb,DAL,WR,18,DRAFT,4241389,2021,64582505
+388,Big ole doinks  in Amish,Jonny Perreault,5,Tyler Lockett,SEA,WR,13,DRAFT,2577327,2021,64582505
+389,Big ole doinks  in Amish,Jonny Perreault,5,Courtland Sutton,DEN,WR,46,DRAFT,3128429,2021,64582505
+390,Big ole doinks  in Amish,Jonny Perreault,5,Tyler Boyd,CIN,WR,31,DRAFT,3045144,2021,64582505
+391,Big ole doinks  in Amish,Jonny Perreault,5,Marvin Jones Jr.,JAX,WR,34,DRAFT,15072,2021,64582505
+392,Big ole doinks  in Amish,Jonny Perreault,5,Jonnu Smith,NE,TE,34,DRAFT,3054212,2021,64582505
+393,Big ole doinks  in Amish,Jonny Perreault,5,Ryan Tannehill,TEN,QB,12,DRAFT,14876,2021,64582505
+394,Big ole doinks  in Amish,Jonny Perreault,5,Zack Moss,BUF,RB,52,DRAFT,4035676,2021,64582505
+395,Big ole doinks  in Amish,Jonny Perreault,5,Patriots D/ST,NE,D/ST,3,DRAFT,-16017,2021,64582505
+396,Big ole doinks  in Amish,Jonny Perreault,5,Graham Gano,NYG,K,19,DRAFT,12460,2021,64582505
+397,Big ole doinks  in Amish,Jonny Perreault,5,Mark Ingram II,NO,RB,50,ADD,13981,2021,64582505
+398,Big ole doinks  in Amish,Jonny Perreault,5,Mac Jones,NE,QB,18,ADD,4241464,2021,64582505
+399,Big ole doinks  in Amish,Jonny Perreault,5,Noah Fant,DEN,TE,12,ADD,4036131,2021,64582505
+400,Big ole doinks  in Amish,Jonny Perreault,5,Foster Moreau,OAK,TE,25,ADD,3843945,2021,64582505
+401,PAWG Patrol,Hatcher D'Agostino,6,Saquon Barkley,NYG,RB,32,DRAFT,3929630,2021,64582505
+402,PAWG Patrol,Hatcher D'Agostino,6,Stefon Diggs,BUF,WR,7,DRAFT,2976212,2021,64582505
+403,PAWG Patrol,Hatcher D'Agostino,6,George Kittle,SF,TE,4,DRAFT,3040151,2021,64582505
+404,PAWG Patrol,Hatcher D'Agostino,6,David Montgomery,CHI,RB,21,DRAFT,4035538,2021,64582505
+405,PAWG Patrol,Hatcher D'Agostino,6,Aaron Rodgers,GB,QB,5,DRAFT,8439,2021,64582505
+406,PAWG Patrol,Hatcher D'Agostino,6,Tee Higgins,CIN,WR,22,DRAFT,4239993,2021,64582505
+407,PAWG Patrol,Hatcher D'Agostino,6,Odell Beckham Jr.,LAR,WR,55,DRAFT,16733,2021,64582505
+408,PAWG Patrol,Hatcher D'Agostino,6,DeVonta Smith,PHI,WR,29,DRAFT,4241478,2021,64582505
+409,PAWG Patrol,Hatcher D'Agostino,6,Leonard Fournette,TB,RB,7,DRAFT,3115364,2021,64582505
+410,PAWG Patrol,Hatcher D'Agostino,6,Dallas Goedert,PHI,TE,10,DRAFT,3121023,2021,64582505
+411,PAWG Patrol,Hatcher D'Agostino,6,DeVante Parker,MIA,WR,69,DRAFT,2576623,2021,64582505
+412,PAWG Patrol,Hatcher D'Agostino,6,Zach Ertz,ARI,TE,5,ADD,15835,2021,64582505
+413,PAWG Patrol,Hatcher D'Agostino,6,Browns D/ST,CLE,D/ST,16,ADD,-16005,2021,64582505
+414,PAWG Patrol,Hatcher D'Agostino,6,Randy Bullock,TEN,K,15,ADD,15091,2021,64582505
+415,PAWG Patrol,Hatcher D'Agostino,6,Damien Harris,NE,RB,13,ADD,3925347,2021,64582505
+416,PAWG Patrol,Hatcher D'Agostino,6,Derek Carr,OAK,QB,14,ADD,16757,2021,64582505
+417,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Travis Kelce,KC,TE,2,DRAFT,15847,2021,64582505
+418,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Patrick Mahomes,KC,QB,4,DRAFT,3139477,2021,64582505
+419,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,James Robinson,JAX,RB,24,DRAFT,4052042,2021,64582505
+420,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Mike Evans,TB,WR,8,DRAFT,16737,2021,64582505
+421,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Kareem Hunt,CLE,RB,48,DRAFT,3059915,2021,64582505
+422,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Michael Pittman Jr.,IND,WR,15,ADD,4035687,2021,64582505
+423,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Kirk Cousins,MIN,QB,11,ADD,14880,2021,64582505
+424,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Hunter Renfrow,OAK,WR,11,ADD,3135321,2021,64582505
+425,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Brandon Aiyuk,SF,WR,36,ADD,4360438,2021,64582505
+426,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Elijah Moore,NYJ,WR,48,ADD,4372414,2021,64582505
+427,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Rhamondre Stevenson,NE,RB,41,ADD,4569173,2021,64582505
+428,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Devonta Freeman,BAL,RB,31,ADD,16944,2021,64582505
+429,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Alexander Mattison,MIN,RB,38,ADD,4048244,2021,64582505
+430,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Greg Zuerlein,DAL,K,13,ADD,14993,2021,64582505
+431,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Eagles D/ST,PHI,D/ST,17,ADD,-16021,2021,64582505
+432,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,Tyler Conklin,MIN,TE,17,ADD,3915486,2021,64582505
+433,Rick Ross's  Sloppy Mudpies,Emeric Rochford,7,D'Ernest Johnson,CLE,RB,51,ADD,3139602,2021,64582505
+434,TorNadeau's Meadows ,Andrew Nadeau,8,Derrick Henry,TEN,RB,16,DRAFT,3043078,2021,64582505
+435,TorNadeau's Meadows ,Andrew Nadeau,8,Antonio Gibson,WSH,RB,10,DRAFT,4360294,2021,64582505
+436,TorNadeau's Meadows ,Andrew Nadeau,8,Amari Cooper,DAL,WR,27,DRAFT,2976499,2021,64582505
+437,TorNadeau's Meadows ,Andrew Nadeau,8,Adam Thielen,MIN,WR,28,DRAFT,16460,2021,64582505
+438,TorNadeau's Meadows ,Andrew Nadeau,8,Kyler Murray,ARI,QB,10,DRAFT,3917315,2021,64582505
+439,TorNadeau's Meadows ,Andrew Nadeau,8,Chase Claypool,PIT,WR,37,DRAFT,4046692,2021,64582505
+440,TorNadeau's Meadows ,Andrew Nadeau,8,Darrell Henderson Jr.,LAR,RB,27,DRAFT,4039359,2021,64582505
+441,TorNadeau's Meadows ,Andrew Nadeau,8,Matthew Stafford,LAR,QB,6,DRAFT,12483,2021,64582505
+442,TorNadeau's Meadows ,Andrew Nadeau,8,Mike Williams,LAC,WR,10,DRAFT,3045138,2021,64582505
+443,TorNadeau's Meadows ,Andrew Nadeau,8,Rob Gronkowski,TB,TE,5,ADD,13229,2021,64582505
+444,TorNadeau's Meadows ,Andrew Nadeau,8,Tyler Higbee,LAR,TE,14,ADD,2573401,2021,64582505
+445,TorNadeau's Meadows ,Andrew Nadeau,8,Greg Joseph,MIN,K,6,ADD,3975763,2021,64582505
+446,TorNadeau's Meadows ,Andrew Nadeau,8,Kenneth Gainwell,PHI,RB,42,ADD,4371733,2021,64582505
+447,TorNadeau's Meadows ,Andrew Nadeau,8,Chase Edmonds,ARI,RB,35,ADD,3119195,2021,64582505
+448,TorNadeau's Meadows ,Andrew Nadeau,8,Broncos D/ST,DEN,D/ST,10,ADD,-16007,2021,64582505
+449,TorNadeau's Meadows ,Andrew Nadeau,8,Seahawks D/ST,SEA,D/ST,24,ADD,-16026,2021,64582505
+450,The Raisin Bran Clan,Mike Kearney,9,Myles Gaskin,MIA,RB,26,DRAFT,3886818,2021,64582505
+451,The Raisin Bran Clan,Mike Kearney,9,Mark Andrews,BAL,TE,1,DRAFT,3116365,2021,64582505
+452,The Raisin Bran Clan,Mike Kearney,9,Justin Herbert,LAC,QB,2,DRAFT,4038941,2021,64582505
+453,The Raisin Bran Clan,Mike Kearney,9,Buccaneers D/ST,TB,D/ST,6,DRAFT,-16027,2021,64582505
+454,The Raisin Bran Clan,Mike Kearney,9,Tony Pollard,DAL,RB,28,DRAFT,3916148,2021,64582505
+455,The Raisin Bran Clan,Mike Kearney,9,Elijah Mitchell,SF,RB,25,ADD,4241555,2021,64582505
+456,The Raisin Bran Clan,Mike Kearney,9,Tyler Bass,BUF,K,11,ADD,3917232,2021,64582505
+457,The Raisin Bran Clan,Mike Kearney,9,Dawson Knox,BUF,TE,8,ADD,3930086,2021,64582505
+458,The Raisin Bran Clan,Mike Kearney,9,Michael Gallup,DAL,WR,79,ADD,4036348,2021,64582505
+459,The Raisin Bran Clan,Mike Kearney,9,D'Andre Swift,DET,RB,19,TRADE,4259545,2021,64582505
+460,The Raisin Bran Clan,Mike Kearney,9,A.J. Brown,TEN,WR,32,TRADE,4047646,2021,64582505
+461,The Raisin Bran Clan,Mike Kearney,9,Ja'Marr Chase,CIN,WR,5,TRADE,4362628,2021,64582505
+462,The Raisin Bran Clan,Mike Kearney,9,Michael Carter,NYJ,RB,29,TRADE,4240657,2021,64582505
+463,The Raisin Bran Clan,Mike Kearney,9,Dontrell Hilliard,TEN,RB,65,ADD,3126246,2021,64582505
+464,The Raisin Bran Clan,Mike Kearney,9,Van Jefferson,LAR,WR,35,ADD,3930066,2021,64582505
+465,The Raisin Bran Clan,Mike Kearney,9,Russell Gage,ATL,WR,39,ADD,3115378,2021,64582505
+466,Tony LaRussa's DUI,Jake Landry,10,Darren Waller,OAK,TE,18,DRAFT,2576925,2021,64582505
+467,Tony LaRussa's DUI,Jake Landry,10,Chris Godwin,TB,WR,17,DRAFT,3116165,2021,64582505
+468,Tony LaRussa's DUI,Jake Landry,10,Russell Wilson,SEA,QB,15,DRAFT,14881,2021,64582505
+469,Tony LaRussa's DUI,Jake Landry,10,Deebo Samuel,SF,WR,2,DRAFT,3126486,2021,64582505
+470,Tony LaRussa's DUI,Jake Landry,10,Bills D/ST,BUF,D/ST,2,DRAFT,-16002,2021,64582505
+471,Tony LaRussa's DUI,Jake Landry,10,James Conner,ARI,RB,5,ADD,3045147,2021,64582505
+472,Tony LaRussa's DUI,Jake Landry,10,Cooper Kupp,LAR,WR,1,TRADE,2977187,2021,64582505
+473,Tony LaRussa's DUI,Jake Landry,10,Joe Mixon,CIN,RB,3,TRADE,3116385,2021,64582505
+474,Tony LaRussa's DUI,Jake Landry,10,Daniel Carlson,OAK,K,1,ADD,3051909,2021,64582505
+475,Tony LaRussa's DUI,Jake Landry,10,Darnell Mooney,CHI,WR,24,ADD,4040655,2021,64582505
+476,Tony LaRussa's DUI,Jake Landry,10,Hunter Henry,NE,TE,9,ADD,3046439,2021,64582505
+477,Tony LaRussa's DUI,Jake Landry,10,Ronald Jones II,TB,RB,59,ADD,3912550,2021,64582505
+478,Tony LaRussa's DUI,Jake Landry,10,C.J. Uzomah,CIN,TE,19,ADD,2574576,2021,64582505
+479,Tony LaRussa's DUI,Jake Landry,10,Trey Lance,SF,QB,40,ADD,4383351,2021,64582505
+480,Tony LaRussa's DUI,Jake Landry,10,Dare Ogunbowale,JAX,RB,80,ADD,2983509,2021,64582505
+481,Tony LaRussa's DUI,Jake Landry,10,Tyler Huntley,BAL,QB,37,ADD,4035671,2021,64582505
+482,Tony LaRussa's DUI,Jake Landry,10,Jaret Patterson,WSH,RB,73,ADD,4362452,2021,64582505

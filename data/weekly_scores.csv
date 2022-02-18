@@ -1,0 +1,455 @@
+,week,team_id,real_score,opp_score,owner,team,year,lid
+0,1.0,7,84.86,99.66,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+1,2.0,7,82.32,88.66,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+2,3.0,7,124.98,138.1,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+3,4.0,7,76.5,112.22,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+4,5.0,7,119.94,106.44,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+5,6.0,7,89.0,109.3,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+6,7.0,7,110.08,93.64,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+7,8.0,7,166.66,121.3,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+8,9.0,7,109.8,87.74,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+9,10.0,7,168.34,104.22,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+10,11.0,7,133.04,104.26,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+11,12.0,7,90.4,91.8,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+12,13.0,7,67.04,105.12,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+13,14.0,7,89.64,105.8,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+14,15.0,7,140.56,133.78,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2019,64582505
+15,1.0,8,99.66,84.86,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+16,2.0,8,98.3,82.02,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+17,3.0,8,134.16,163.02,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+18,4.0,8,90.68,107.1,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+19,5.0,8,100.8,70.86,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+20,6.0,8,99.94,107.02,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+21,7.0,8,93.56,77.92,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+22,8.0,8,113.28,83.08,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+23,9.0,8,86.76,119.72,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+24,10.0,8,81.08,118.34,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+25,11.0,8,70.64,75.22,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+26,12.0,8,54.44,99.72,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+27,13.0,8,45.92,115.4,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+28,14.0,8,66.96,108.6,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+29,15.0,8,132.76,64.54,Andrew Nadeau,Yang Gang Chain Gang,2019,64582505
+30,1.0,5,125.0,174.12,Jonny Perreault,No Turbo Nick,2019,64582505
+31,2.0,5,77.26,116.68,Jonny Perreault,No Turbo Nick,2019,64582505
+32,3.0,5,138.1,124.98,Jonny Perreault,No Turbo Nick,2019,64582505
+33,4.0,5,110.0,81.9,Jonny Perreault,No Turbo Nick,2019,64582505
+34,5.0,5,123.54,105.72,Jonny Perreault,No Turbo Nick,2019,64582505
+35,6.0,5,134.6,103.04,Jonny Perreault,No Turbo Nick,2019,64582505
+36,7.0,5,74.04,74.94,Jonny Perreault,No Turbo Nick,2019,64582505
+37,8.0,5,91.98,100.16,Jonny Perreault,No Turbo Nick,2019,64582505
+38,9.0,5,119.72,86.76,Jonny Perreault,No Turbo Nick,2019,64582505
+39,10.0,5,87.68,155.98,Jonny Perreault,No Turbo Nick,2019,64582505
+40,11.0,5,96.84,124.68,Jonny Perreault,No Turbo Nick,2019,64582505
+41,12.0,5,91.8,90.4,Jonny Perreault,No Turbo Nick,2019,64582505
+42,13.0,5,86.5,91.46,Jonny Perreault,No Turbo Nick,2019,64582505
+43,14.0,5,76.1,111.38,Jonny Perreault,No Turbo Nick,2019,64582505
+44,15.0,5,64.54,132.76,Jonny Perreault,No Turbo Nick,2019,64582505
+45,1.0,1,174.12,125.0,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+46,2.0,1,119.4,127.96,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+47,3.0,1,127.54,130.68,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+48,4.0,1,112.22,76.5,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+49,5.0,1,155.52,184.04,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+50,6.0,1,107.02,99.94,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+51,7.0,1,109.66,78.76,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+52,8.0,1,132.7,84.58,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+53,9.0,1,136.78,108.24,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+54,10.0,1,155.98,87.68,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+55,11.0,1,137.96,78.88,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+56,12.0,1,86.78,130.06,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+57,13.0,1,105.12,67.04,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+58,15.0,1,118.4,117.58,Matt  Plager,Hatcher Top Jonny Bottom,2019,64582505
+59,1.0,2,81.44,111.42,Fox Winters,The Foxy Ladies,2019,64582505
+60,2.0,2,109.92,117.54,Fox Winters,The Foxy Ladies,2019,64582505
+61,3.0,2,163.02,134.16,Fox Winters,The Foxy Ladies,2019,64582505
+62,4.0,2,119.58,137.6,Fox Winters,The Foxy Ladies,2019,64582505
+63,5.0,2,105.72,123.54,Fox Winters,The Foxy Ladies,2019,64582505
+64,6.0,2,109.3,89.0,Fox Winters,The Foxy Ladies,2019,64582505
+65,7.0,2,78.76,109.66,Fox Winters,The Foxy Ladies,2019,64582505
+66,8.0,2,164.92,103.86,Fox Winters,The Foxy Ladies,2019,64582505
+67,9.0,2,80.56,116.2,Fox Winters,The Foxy Ladies,2019,64582505
+68,10.0,2,95.38,95.22,Fox Winters,The Foxy Ladies,2019,64582505
+69,11.0,2,75.22,70.64,Fox Winters,The Foxy Ladies,2019,64582505
+70,12.0,2,120.54,110.58,Fox Winters,The Foxy Ladies,2019,64582505
+71,13.0,2,77.96,140.4,Fox Winters,The Foxy Ladies,2019,64582505
+72,14.0,2,76.38,114.52,Fox Winters,The Foxy Ladies,2019,64582505
+73,15.0,2,133.78,140.56,Fox Winters,The Foxy Ladies,2019,64582505
+74,1.0,4,111.42,81.44,James Gaudreault,Bonerville Cougers,2019,64582505
+75,2.0,4,127.96,119.4,James Gaudreault,Bonerville Cougers,2019,64582505
+76,3.0,4,93.74,83.76,James Gaudreault,Bonerville Cougers,2019,64582505
+77,4.0,4,107.1,90.68,James Gaudreault,Bonerville Cougers,2019,64582505
+78,5.0,4,115.82,150.24,James Gaudreault,Bonerville Cougers,2019,64582505
+79,6.0,4,108.56,96.4,James Gaudreault,Bonerville Cougers,2019,64582505
+80,7.0,4,110.46,92.32,James Gaudreault,Bonerville Cougers,2019,64582505
+81,8.0,4,100.16,91.98,James Gaudreault,Bonerville Cougers,2019,64582505
+82,9.0,4,116.2,80.56,James Gaudreault,Bonerville Cougers,2019,64582505
+83,10.0,4,104.22,168.34,James Gaudreault,Bonerville Cougers,2019,64582505
+84,11.0,4,87.04,110.76,James Gaudreault,Bonerville Cougers,2019,64582505
+85,12.0,4,99.72,54.44,James Gaudreault,Bonerville Cougers,2019,64582505
+86,13.0,4,104.62,109.54,James Gaudreault,Bonerville Cougers,2019,64582505
+87,15.0,4,112.42,142.7,James Gaudreault,Bonerville Cougers,2019,64582505
+88,1.0,9,125.0,125.12,Mike Kearney,In Crust We Trust,2019,64582505
+89,2.0,9,116.68,77.26,Mike Kearney,In Crust We Trust,2019,64582505
+90,3.0,9,130.68,127.54,Mike Kearney,In Crust We Trust,2019,64582505
+91,4.0,9,85.98,78.3,Mike Kearney,In Crust We Trust,2019,64582505
+92,5.0,9,106.44,119.94,Mike Kearney,In Crust We Trust,2019,64582505
+93,6.0,9,117.14,105.32,Mike Kearney,In Crust We Trust,2019,64582505
+94,7.0,9,92.32,110.46,Mike Kearney,In Crust We Trust,2019,64582505
+95,8.0,9,83.08,113.28,Mike Kearney,In Crust We Trust,2019,64582505
+96,9.0,9,87.74,109.8,Mike Kearney,In Crust We Trust,2019,64582505
+97,10.0,9,125.72,83.68,Mike Kearney,In Crust We Trust,2019,64582505
+98,11.0,9,124.68,96.84,Mike Kearney,In Crust We Trust,2019,64582505
+99,12.0,9,130.06,86.78,Mike Kearney,In Crust We Trust,2019,64582505
+100,13.0,9,140.4,77.96,Mike Kearney,In Crust We Trust,2019,64582505
+101,14.0,9,105.8,89.64,Mike Kearney,In Crust We Trust,2019,64582505
+102,15.0,9,117.58,118.4,Mike Kearney,In Crust We Trust,2019,64582505
+103,1.0,3,125.12,125.0,nick brustin,Pitter  Patter,2019,64582505
+104,2.0,3,88.66,82.32,nick brustin,Pitter  Patter,2019,64582505
+105,3.0,3,83.44,125.46,nick brustin,Pitter  Patter,2019,64582505
+106,4.0,3,81.9,110.0,nick brustin,Pitter  Patter,2019,64582505
+107,5.0,3,184.04,155.52,nick brustin,Pitter  Patter,2019,64582505
+108,6.0,3,96.4,108.56,nick brustin,Pitter  Patter,2019,64582505
+109,7.0,3,77.92,93.56,nick brustin,Pitter  Patter,2019,64582505
+110,8.0,3,103.86,164.92,nick brustin,Pitter  Patter,2019,64582505
+111,9.0,3,108.24,136.78,nick brustin,Pitter  Patter,2019,64582505
+112,10.0,3,83.68,125.72,nick brustin,Pitter  Patter,2019,64582505
+113,11.0,3,104.26,133.04,nick brustin,Pitter  Patter,2019,64582505
+114,12.0,3,95.12,89.74,nick brustin,Pitter  Patter,2019,64582505
+115,13.0,3,91.46,86.5,nick brustin,Pitter  Patter,2019,64582505
+116,14.0,3,111.38,76.1,nick brustin,Pitter  Patter,2019,64582505
+117,15.0,3,126.92,113.44,nick brustin,Pitter  Patter,2019,64582505
+118,1.0,10,95.02,141.82,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+119,2.0,10,117.54,109.92,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+120,3.0,10,83.76,93.74,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+121,4.0,10,78.3,85.98,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+122,5.0,10,70.86,100.8,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+123,6.0,10,103.04,134.6,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+124,7.0,10,93.64,110.08,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+125,8.0,10,84.58,132.7,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+126,9.0,10,107.96,123.3,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+127,10.0,10,95.22,95.38,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+128,11.0,10,110.76,87.04,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+129,12.0,10,89.74,95.12,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+130,13.0,10,115.4,45.92,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+131,14.0,10,108.6,66.96,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+132,15.0,10,113.44,126.92,Jake Landry,Riff Raffs Team of All Stars,2019,64582505
+133,1.0,6,141.82,95.02,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+134,2.0,6,82.02,98.3,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+135,3.0,6,125.46,83.44,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+136,4.0,6,137.6,119.58,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+137,5.0,6,150.24,115.82,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+138,6.0,6,105.32,117.14,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+139,7.0,6,74.94,74.04,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+140,8.0,6,121.3,166.66,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+141,9.0,6,123.3,107.96,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+142,10.0,6,118.34,81.08,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+143,11.0,6,78.88,137.96,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+144,12.0,6,110.58,120.54,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+145,13.0,6,109.54,104.62,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+146,14.0,6,114.52,76.38,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+147,15.0,6,142.7,112.42,Hatcher D'Agostino,PAWG Patrol,2019,64582505
+148,1.0,7,109.54,105.5,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+149,2.0,7,119.18,113.6,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+150,3.0,7,133.7,118.9,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+151,4.0,7,124.44,110.32,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+152,5.0,7,139.6,100.38,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+153,6.0,7,120.9,119.74,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+154,7.0,7,120.7,104.46,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+155,8.0,7,140.24,69.32,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+156,9.0,7,124.78,122.2,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+157,10.0,7,64.28,112.0,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+158,11.0,7,102.08,138.56,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+159,12.0,7,147.78,72.24,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+160,13.0,7,134.62,131.52,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+161,15.0,7,126.46,103.12,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2020,64582505
+162,1.0,8,105.5,109.54,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+163,2.0,8,129.84,126.46,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+164,3.0,8,111.1,162.94,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+165,4.0,8,160.82,172.08,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+166,5.0,8,117.34,94.36,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+167,6.0,8,129.18,88.72,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+168,7.0,8,84.78,84.56,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+169,8.0,8,114.56,112.94,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+170,9.0,8,102.2,75.34,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+171,10.0,8,72.16,114.66,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+172,11.0,8,104.14,99.68,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+173,12.0,8,127.88,176.84,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+174,13.0,8,89.2,91.94,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+175,14.0,8,142.92,127.44,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+176,15.0,8,146.66,133.72,Andrew Nadeau,I Don't Tip I Pay Bills,2020,64582505
+177,1.0,5,91.78,114.86,Jonny Perreault,Incognito Mode,2020,64582505
+178,2.0,5,78.46,136.72,Jonny Perreault,Incognito Mode,2020,64582505
+179,3.0,5,118.9,133.7,Jonny Perreault,Incognito Mode,2020,64582505
+180,4.0,5,84.34,78.3,Jonny Perreault,Incognito Mode,2020,64582505
+181,5.0,5,108.06,76.14,Jonny Perreault,Incognito Mode,2020,64582505
+182,6.0,5,109.92,95.82,Jonny Perreault,Incognito Mode,2020,64582505
+183,7.0,5,113.5,73.82,Jonny Perreault,Incognito Mode,2020,64582505
+184,8.0,5,69.44,146.44,Jonny Perreault,Incognito Mode,2020,64582505
+185,9.0,5,75.34,102.2,Jonny Perreault,Incognito Mode,2020,64582505
+186,10.0,5,73.88,116.4,Jonny Perreault,Incognito Mode,2020,64582505
+187,11.0,5,109.04,126.48,Jonny Perreault,Incognito Mode,2020,64582505
+188,12.0,5,72.24,147.78,Jonny Perreault,Incognito Mode,2020,64582505
+189,13.0,5,47.06,102.34,Jonny Perreault,Incognito Mode,2020,64582505
+190,14.0,5,52.32,109.06,Jonny Perreault,Incognito Mode,2020,64582505
+191,15.0,5,128.06,117.74,Jonny Perreault,Incognito Mode,2020,64582505
+192,1.0,1,114.86,91.78,Matt  Plager,El Chapo's Guzmen,2020,64582505
+193,2.0,1,97.68,140.7,Matt  Plager,El Chapo's Guzmen,2020,64582505
+194,3.0,1,74.48,168.7,Matt  Plager,El Chapo's Guzmen,2020,64582505
+195,4.0,1,110.32,124.44,Matt  Plager,El Chapo's Guzmen,2020,64582505
+196,5.0,1,122.2,150.06,Matt  Plager,El Chapo's Guzmen,2020,64582505
+197,6.0,1,88.72,129.18,Matt  Plager,El Chapo's Guzmen,2020,64582505
+198,7.0,1,109.8,160.32,Matt  Plager,El Chapo's Guzmen,2020,64582505
+199,8.0,1,86.66,93.24,Matt  Plager,El Chapo's Guzmen,2020,64582505
+200,9.0,1,96.02,86.74,Matt  Plager,El Chapo's Guzmen,2020,64582505
+201,10.0,1,116.4,73.88,Matt  Plager,El Chapo's Guzmen,2020,64582505
+202,11.0,1,125.38,90.34,Matt  Plager,El Chapo's Guzmen,2020,64582505
+203,12.0,1,71.7,104.6,Matt  Plager,El Chapo's Guzmen,2020,64582505
+204,13.0,1,131.52,134.62,Matt  Plager,El Chapo's Guzmen,2020,64582505
+205,14.0,1,103.06,136.62,Matt  Plager,El Chapo's Guzmen,2020,64582505
+206,15.0,1,117.74,128.06,Matt  Plager,El Chapo's Guzmen,2020,64582505
+207,1.0,2,118.7,120.04,Fox Winters,The Foxy Ladies,2020,64582505
+208,2.0,2,165.36,96.68,Fox Winters,The Foxy Ladies,2020,64582505
+209,3.0,2,162.94,111.1,Fox Winters,The Foxy Ladies,2020,64582505
+210,4.0,2,81.0,130.72,Fox Winters,The Foxy Ladies,2020,64582505
+211,5.0,2,76.14,108.06,Fox Winters,The Foxy Ladies,2020,64582505
+212,6.0,2,119.74,120.9,Fox Winters,The Foxy Ladies,2020,64582505
+213,7.0,2,160.32,109.8,Fox Winters,The Foxy Ladies,2020,64582505
+214,8.0,2,90.66,90.42,Fox Winters,The Foxy Ladies,2020,64582505
+215,9.0,2,109.44,145.0,Fox Winters,The Foxy Ladies,2020,64582505
+216,10.0,2,120.44,82.68,Fox Winters,The Foxy Ladies,2020,64582505
+217,11.0,2,99.68,104.14,Fox Winters,The Foxy Ladies,2020,64582505
+218,12.0,2,110.4,92.8,Fox Winters,The Foxy Ladies,2020,64582505
+219,13.0,2,147.46,96.72,Fox Winters,The Foxy Ladies,2020,64582505
+220,14.0,2,115.68,90.66,Fox Winters,The Foxy Ladies,2020,64582505
+221,15.0,2,103.12,126.46,Fox Winters,The Foxy Ladies,2020,64582505
+222,1.0,4,120.04,118.7,James Gaudreault,Bonerville Cougers,2020,64582505
+223,2.0,4,140.7,97.68,James Gaudreault,Bonerville Cougers,2020,64582505
+224,3.0,4,101.68,93.72,James Gaudreault,Bonerville Cougers,2020,64582505
+225,4.0,4,172.08,160.82,James Gaudreault,Bonerville Cougers,2020,64582505
+226,5.0,4,110.94,85.1,James Gaudreault,Bonerville Cougers,2020,64582505
+227,6.0,4,61.6,106.8,James Gaudreault,Bonerville Cougers,2020,64582505
+228,7.0,4,119.12,138.86,James Gaudreault,Bonerville Cougers,2020,64582505
+229,8.0,4,146.44,69.44,James Gaudreault,Bonerville Cougers,2020,64582505
+230,9.0,4,145.0,109.44,James Gaudreault,Bonerville Cougers,2020,64582505
+231,10.0,4,112.0,64.28,James Gaudreault,Bonerville Cougers,2020,64582505
+232,11.0,4,131.74,78.48,James Gaudreault,Bonerville Cougers,2020,64582505
+233,12.0,4,176.84,127.88,James Gaudreault,Bonerville Cougers,2020,64582505
+234,13.0,4,95.0,79.48,James Gaudreault,Bonerville Cougers,2020,64582505
+235,15.0,4,133.72,146.66,James Gaudreault,Bonerville Cougers,2020,64582505
+236,1.0,9,124.68,137.72,Mike Kearney,Future's Family,2020,64582505
+237,2.0,9,136.72,78.46,Mike Kearney,Future's Family,2020,64582505
+238,3.0,9,168.7,74.48,Mike Kearney,Future's Family,2020,64582505
+239,4.0,9,117.2,95.92,Mike Kearney,Future's Family,2020,64582505
+240,5.0,9,100.38,139.6,Mike Kearney,Future's Family,2020,64582505
+241,6.0,9,109.94,103.14,Mike Kearney,Future's Family,2020,64582505
+242,7.0,9,138.86,119.12,Mike Kearney,Future's Family,2020,64582505
+243,8.0,9,112.94,114.56,Mike Kearney,Future's Family,2020,64582505
+244,9.0,9,122.2,124.78,Mike Kearney,Future's Family,2020,64582505
+245,10.0,9,77.22,99.02,Mike Kearney,Future's Family,2020,64582505
+246,11.0,9,126.48,109.04,Mike Kearney,Future's Family,2020,64582505
+247,12.0,9,104.6,71.7,Mike Kearney,Future's Family,2020,64582505
+248,13.0,9,96.72,147.46,Mike Kearney,Future's Family,2020,64582505
+249,14.0,9,127.44,142.92,Mike Kearney,Future's Family,2020,64582505
+250,15.0,9,75.04,114.32,Mike Kearney,Future's Family,2020,64582505
+251,1.0,3,137.72,124.68,nick brustin,Crustholes Band of Misfits,2020,64582505
+252,2.0,3,113.6,119.18,nick brustin,Crustholes Band of Misfits,2020,64582505
+253,3.0,3,101.9,109.68,nick brustin,Crustholes Band of Misfits,2020,64582505
+254,4.0,3,78.3,84.34,nick brustin,Crustholes Band of Misfits,2020,64582505
+255,5.0,3,150.06,122.2,nick brustin,Crustholes Band of Misfits,2020,64582505
+256,6.0,3,106.8,61.6,nick brustin,Crustholes Band of Misfits,2020,64582505
+257,7.0,3,84.56,84.78,nick brustin,Crustholes Band of Misfits,2020,64582505
+258,8.0,3,90.42,90.66,nick brustin,Crustholes Band of Misfits,2020,64582505
+259,9.0,3,86.74,96.02,nick brustin,Crustholes Band of Misfits,2020,64582505
+260,10.0,3,99.02,77.22,nick brustin,Crustholes Band of Misfits,2020,64582505
+261,11.0,3,138.56,102.08,nick brustin,Crustholes Band of Misfits,2020,64582505
+262,12.0,3,145.32,116.94,nick brustin,Crustholes Band of Misfits,2020,64582505
+263,13.0,3,102.34,47.06,nick brustin,Crustholes Band of Misfits,2020,64582505
+264,14.0,3,90.66,115.68,nick brustin,Crustholes Band of Misfits,2020,64582505
+265,15.0,3,114.32,75.04,nick brustin,Crustholes Band of Misfits,2020,64582505
+266,1.0,10,117.1,100.6,Jake Landry,a condum full o precum,2020,64582505
+267,2.0,10,96.68,165.36,Jake Landry,a condum full o precum,2020,64582505
+268,3.0,10,93.72,101.68,Jake Landry,a condum full o precum,2020,64582505
+269,4.0,10,95.92,117.2,Jake Landry,a condum full o precum,2020,64582505
+270,5.0,10,94.36,117.34,Jake Landry,a condum full o precum,2020,64582505
+271,6.0,10,95.82,109.92,Jake Landry,a condum full o precum,2020,64582505
+272,7.0,10,104.46,120.7,Jake Landry,a condum full o precum,2020,64582505
+273,8.0,10,93.24,86.66,Jake Landry,a condum full o precum,2020,64582505
+274,9.0,10,131.2,97.7,Jake Landry,a condum full o precum,2020,64582505
+275,10.0,10,82.68,120.44,Jake Landry,a condum full o precum,2020,64582505
+276,11.0,10,78.48,131.74,Jake Landry,a condum full o precum,2020,64582505
+277,12.0,10,116.94,145.32,Jake Landry,a condum full o precum,2020,64582505
+278,13.0,10,91.94,89.2,Jake Landry,a condum full o precum,2020,64582505
+279,14.0,10,109.06,52.32,Jake Landry,a condum full o precum,2020,64582505
+280,15.0,10,75.6,115.92,Jake Landry,a condum full o precum,2020,64582505
+281,1.0,6,100.6,117.1,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+282,2.0,6,126.46,129.84,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+283,3.0,6,109.68,101.9,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+284,4.0,6,130.72,81.0,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+285,5.0,6,85.1,110.94,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+286,6.0,6,103.14,109.94,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+287,7.0,6,73.82,113.5,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+288,8.0,6,69.32,140.24,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+289,9.0,6,97.7,131.2,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+290,10.0,6,114.66,72.16,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+291,11.0,6,90.34,125.38,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+292,12.0,6,92.8,110.4,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+293,13.0,6,79.48,95.0,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+294,14.0,6,136.62,103.06,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+295,15.0,6,115.92,75.6,Hatcher D'Agostino,PAWG Patrol,2020,64582505
+296,1.0,7,121.88,82.82,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+297,2.0,7,114.72,88.56,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+298,3.0,7,130.9,77.58,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+299,4.0,7,116.72,101.18,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+300,5.0,7,134.98,159.38,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+301,6.0,7,105.68,122.96,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+302,7.0,7,134.14,114.74,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+303,8.0,7,70.3,143.28,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+304,9.0,7,84.74,98.44,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+305,10.0,7,134.64,75.8,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+306,11.0,7,71.3,111.66,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+307,12.0,7,62.82,99.5,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+308,13.0,7,88.76,101.28,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+309,14.0,7,82.72,152.34,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+310,15.0,7,115.6,99.62,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+311,16.0,7,106.22,69.28,Emeric Rochford,Rick Ross's  Sloppy Mudpies,2021,64582505
+312,1.0,6,82.82,121.88,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+313,2.0,6,92.4,128.02,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+314,3.0,6,92.74,112.84,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+315,4.0,6,126.52,66.66,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+316,5.0,6,77.56,142.52,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+317,6.0,6,112.1,114.4,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+318,7.0,6,104.36,110.14,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+319,8.0,6,85.86,104.96,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+320,9.0,6,95.24,96.32,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+321,10.0,6,62.94,99.94,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+322,11.0,6,74.8,96.16,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+323,12.0,6,130.72,94.54,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+324,13.0,6,125.06,139.68,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+325,14.0,6,152.34,82.72,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+326,15.0,6,91.32,92.36,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+327,16.0,6,110.88,62.06,Hatcher D'Agostino,PAWG Patrol,2021,64582505
+328,1.0,5,86.28,73.88,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+329,2.0,5,131.78,97.56,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+330,3.0,5,77.58,130.9,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+331,4.0,5,96.12,95.52,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+332,5.0,5,124.18,139.16,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+333,6.0,5,92.54,126.0,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+334,7.0,5,85.5,120.82,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+335,8.0,5,121.0,142.2,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+336,9.0,5,96.32,95.24,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+337,10.0,5,112.22,110.8,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+338,11.0,5,148.72,116.72,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+339,12.0,5,99.5,62.82,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+340,13.0,5,95.36,107.3,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+341,14.0,5,79.84,86.42,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+342,15.0,5,99.62,115.6,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+343,16.0,5,62.06,110.88,Jonny Perreault,Big ole doinks  in Amish,2021,64582505
+344,1.0,9,73.88,86.28,Mike Kearney,The Raisin Bran Clan,2021,64582505
+345,2.0,9,131.22,123.18,Mike Kearney,The Raisin Bran Clan,2021,64582505
+346,3.0,9,135.94,128.68,Mike Kearney,The Raisin Bran Clan,2021,64582505
+347,4.0,9,101.18,116.72,Mike Kearney,The Raisin Bran Clan,2021,64582505
+348,5.0,9,135.6,141.1,Mike Kearney,The Raisin Bran Clan,2021,64582505
+349,6.0,9,114.4,112.1,Mike Kearney,The Raisin Bran Clan,2021,64582505
+350,7.0,9,114.74,79.44,Mike Kearney,The Raisin Bran Clan,2021,64582505
+351,8.0,9,91.12,88.72,Mike Kearney,The Raisin Bran Clan,2021,64582505
+352,9.0,9,94.96,94.56,Mike Kearney,The Raisin Bran Clan,2021,64582505
+353,10.0,9,110.8,112.22,Mike Kearney,The Raisin Bran Clan,2021,64582505
+354,11.0,9,121.58,124.56,Mike Kearney,The Raisin Bran Clan,2021,64582505
+355,12.0,9,113.62,96.8,Mike Kearney,The Raisin Bran Clan,2021,64582505
+356,13.0,9,101.28,88.76,Mike Kearney,The Raisin Bran Clan,2021,64582505
+357,14.0,9,111.3,98.44,Mike Kearney,The Raisin Bran Clan,2021,64582505
+358,15.0,9,85.34,101.16,Mike Kearney,The Raisin Bran Clan,2021,64582505
+359,16.0,9,127.24,65.66,Mike Kearney,The Raisin Bran Clan,2021,64582505
+360,1.0,8,137.86,124.76,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+361,2.0,8,147.5,117.4,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+362,3.0,8,112.84,92.74,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+363,4.0,8,115.22,119.06,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+364,5.0,8,139.16,124.18,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+365,6.0,8,122.96,105.68,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+366,7.0,8,79.44,114.74,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+367,8.0,8,78.26,105.06,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+368,9.0,8,58.36,114.58,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+369,10.0,8,91.62,94.12,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+370,11.0,8,96.16,74.8,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+371,12.0,8,136.48,117.78,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+372,13.0,8,116.62,81.72,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+373,14.0,8,86.42,79.84,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+374,16.0,8,86.18,126.24,Andrew Nadeau,TorNadeau's Meadows ,2021,64582505
+375,1.0,4,124.76,137.86,James Gaudreault,Bonerville Cougers,2021,64582505
+376,2.0,4,123.18,131.22,James Gaudreault,Bonerville Cougers,2021,64582505
+377,3.0,4,91.12,120.04,James Gaudreault,Bonerville Cougers,2021,64582505
+378,4.0,4,66.66,126.52,James Gaudreault,Bonerville Cougers,2021,64582505
+379,5.0,4,137.64,98.88,James Gaudreault,Bonerville Cougers,2021,64582505
+380,6.0,4,108.88,127.92,James Gaudreault,Bonerville Cougers,2021,64582505
+381,7.0,4,98.94,148.38,James Gaudreault,Bonerville Cougers,2021,64582505
+382,8.0,4,142.2,121.0,James Gaudreault,Bonerville Cougers,2021,64582505
+383,9.0,4,114.58,58.36,James Gaudreault,Bonerville Cougers,2021,64582505
+384,10.0,4,75.8,134.64,James Gaudreault,Bonerville Cougers,2021,64582505
+385,11.0,4,111.08,128.38,James Gaudreault,Bonerville Cougers,2021,64582505
+386,12.0,4,94.54,130.72,James Gaudreault,Bonerville Cougers,2021,64582505
+387,13.0,4,109.82,122.16,James Gaudreault,Bonerville Cougers,2021,64582505
+388,14.0,4,98.44,111.3,James Gaudreault,Bonerville Cougers,2021,64582505
+389,15.0,4,92.36,91.32,James Gaudreault,Bonerville Cougers,2021,64582505
+390,16.0,4,69.28,106.22,James Gaudreault,Bonerville Cougers,2021,64582505
+391,1.0,1,113.6,95.64,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+392,2.0,1,97.56,131.78,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+393,3.0,1,128.68,135.94,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+394,4.0,1,141.84,133.48,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+395,5.0,1,159.38,134.98,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+396,6.0,1,126.28,77.58,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+397,7.0,1,148.38,98.94,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+398,8.0,1,104.96,85.86,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+399,9.0,1,98.44,84.74,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+400,10.0,1,107.68,83.14,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+401,11.0,1,116.72,148.72,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+402,12.0,1,96.8,113.62,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+403,13.0,1,81.72,116.62,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+404,14.0,1,115.58,128.28,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+405,15.0,1,97.98,71.24,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+406,16.0,1,150.4,148.86,Matt  Plager,HASBULLA MAGOMEDOV,2021,64582505
+407,1.0,3,95.64,113.6,nick brustin,Crustholes Band of Misfits,2021,64582505
+408,2.0,3,88.56,114.72,nick brustin,Crustholes Band of Misfits,2021,64582505
+409,3.0,3,125.32,85.92,nick brustin,Crustholes Band of Misfits,2021,64582505
+410,4.0,3,95.52,96.12,nick brustin,Crustholes Band of Misfits,2021,64582505
+411,5.0,3,141.1,135.6,nick brustin,Crustholes Band of Misfits,2021,64582505
+412,6.0,3,127.92,108.88,nick brustin,Crustholes Band of Misfits,2021,64582505
+413,7.0,3,110.14,104.36,nick brustin,Crustholes Band of Misfits,2021,64582505
+414,8.0,3,105.06,78.26,nick brustin,Crustholes Band of Misfits,2021,64582505
+415,9.0,3,94.56,94.96,nick brustin,Crustholes Band of Misfits,2021,64582505
+416,10.0,3,83.14,107.68,nick brustin,Crustholes Band of Misfits,2021,64582505
+417,11.0,3,111.66,71.3,nick brustin,Crustholes Band of Misfits,2021,64582505
+418,12.0,3,129.86,76.86,nick brustin,Crustholes Band of Misfits,2021,64582505
+419,13.0,3,107.3,95.36,nick brustin,Crustholes Band of Misfits,2021,64582505
+420,14.0,3,152.52,143.3,nick brustin,Crustholes Band of Misfits,2021,64582505
+421,16.0,3,148.86,150.4,nick brustin,Crustholes Band of Misfits,2021,64582505
+422,1.0,2,147.56,134.86,Fox Winters,The Foxy Ladies,2021,64582505
+423,2.0,2,117.4,147.5,Fox Winters,The Foxy Ladies,2021,64582505
+424,3.0,2,120.04,91.12,Fox Winters,The Foxy Ladies,2021,64582505
+425,4.0,2,133.48,141.84,Fox Winters,The Foxy Ladies,2021,64582505
+426,5.0,2,142.52,77.56,Fox Winters,The Foxy Ladies,2021,64582505
+427,6.0,2,126.0,92.54,Fox Winters,The Foxy Ladies,2021,64582505
+428,7.0,2,114.74,134.14,Fox Winters,The Foxy Ladies,2021,64582505
+429,8.0,2,88.72,91.12,Fox Winters,The Foxy Ladies,2021,64582505
+430,9.0,2,100.28,108.6,Fox Winters,The Foxy Ladies,2021,64582505
+431,10.0,2,94.12,91.62,Fox Winters,The Foxy Ladies,2021,64582505
+432,11.0,2,128.38,111.08,Fox Winters,The Foxy Ladies,2021,64582505
+433,12.0,2,76.86,129.86,Fox Winters,The Foxy Ladies,2021,64582505
+434,13.0,2,139.68,125.06,Fox Winters,The Foxy Ladies,2021,64582505
+435,14.0,2,128.28,115.58,Fox Winters,The Foxy Ladies,2021,64582505
+436,15.0,2,71.24,97.98,Fox Winters,The Foxy Ladies,2021,64582505
+437,16.0,2,65.66,127.24,Fox Winters,The Foxy Ladies,2021,64582505
+438,1.0,10,134.86,147.56,Jake Landry,Tony LaRussa's DUI,2021,64582505
+439,2.0,10,128.02,92.4,Jake Landry,Tony LaRussa's DUI,2021,64582505
+440,3.0,10,85.92,125.32,Jake Landry,Tony LaRussa's DUI,2021,64582505
+441,4.0,10,119.06,115.22,Jake Landry,Tony LaRussa's DUI,2021,64582505
+442,5.0,10,98.88,137.64,Jake Landry,Tony LaRussa's DUI,2021,64582505
+443,6.0,10,77.58,126.28,Jake Landry,Tony LaRussa's DUI,2021,64582505
+444,7.0,10,120.82,85.5,Jake Landry,Tony LaRussa's DUI,2021,64582505
+445,8.0,10,143.28,70.3,Jake Landry,Tony LaRussa's DUI,2021,64582505
+446,9.0,10,108.6,100.28,Jake Landry,Tony LaRussa's DUI,2021,64582505
+447,10.0,10,99.94,62.94,Jake Landry,Tony LaRussa's DUI,2021,64582505
+448,11.0,10,124.56,121.58,Jake Landry,Tony LaRussa's DUI,2021,64582505
+449,12.0,10,117.78,136.48,Jake Landry,Tony LaRussa's DUI,2021,64582505
+450,13.0,10,122.16,109.82,Jake Landry,Tony LaRussa's DUI,2021,64582505
+451,14.0,10,143.3,152.52,Jake Landry,Tony LaRussa's DUI,2021,64582505
+452,15.0,10,101.16,85.34,Jake Landry,Tony LaRussa's DUI,2021,64582505
+453,16.0,10,126.24,86.18,Jake Landry,Tony LaRussa's DUI,2021,64582505
